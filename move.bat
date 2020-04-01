@@ -1,0 +1,1 @@
+copy C:\Users\S0MK3R\eth\PetShop\build\contracts\Lotto.json C:\Users\S0MK3R\eth\lotto\src\assets\
